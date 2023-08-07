@@ -15,5 +15,5 @@ Skills: .NET | Java | Angular | React | SQL | Fullstack developer
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=wovi10)](https://github.com/wovi10/github-readme-stats)  
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Wovi10)
 
-![Profile views](https://gpvc.arturio.dev/Wovi10)  
+![](https://komarev.com/ghpvc/?username=wovi10)
 </div>
