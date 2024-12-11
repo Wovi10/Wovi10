@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, My name is Wovi10</h1>
 <h3 align="center"> Welcome to my GitHub profile</h3>
 <div align="center">
-I am a .NET developer for DotNET Lab in Westerlo, Belgium.
+I am a .NET developer for Coteng NV in Deurne, Belgium.
 
 Skills: .NET | Java | Angular | React | SQL | Fullstack developer
 
