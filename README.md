@@ -13,7 +13,7 @@ Skills: .NET | Java | Angular | React | SQL | Fullstack developer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wovi10)](https://github.com/wovi10/github-readme-stats)  
 </br>
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Wovi10&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=calm)](https://github-stats-extended.vercel.app/api?username=Wovi10&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&title_color=8A9A5B&text_color=E8E6D9&icon_color=8A9A5B&border_color=8A9A5B&bg_color=3A413A)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Wovi10&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&title_color=8A9A5B&text_color=E8E6D9&icon_color=8A9A5B&border_color=8A9A5B&bg_color=3A413A)](https://github-stats-extended.vercel.app/api?username=Wovi10&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&title_color=8A9A5B&text_color=E8E6D9&icon_color=8A9A5B&border_color=8A9A5B&bg_color=3A413A)
 </br>
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
