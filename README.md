@@ -1,9 +1,8 @@
-<h1 align="center">Hi there 👋, My name is Wovi10</h1>
-<h3 align="center"> Welcome to my GitHub profile</h3>
+<h1 align="center">Hello there👋 (General Kenobi)</h1>
+<h3 align="center">Welcome to my GitHub profile</h3>
 <div align="center">
-I am a .NET developer for Coteng NV in Deurne, Belgium.
 
-Skills: .NET | Java | Angular | React | SQL | Fullstack developer
+Skills: .NET | Angular | React | SQL | Fullstack developer
 
 📫 How to reach me: wout.vinckevleugel@gmail.com   
   
