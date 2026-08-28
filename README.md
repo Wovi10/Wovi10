@@ -18,6 +18,4 @@ These are all personal projects in which I have some fun and practice some diffe
 [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Wovi10&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&title_color=8A9A5B&text_color=E8E6D9&icon_color=8A9A5B&border_color=8A9A5B&bg_color=3A413A)](https://github-stats-extended.vercel.app/api?username=Wovi10&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&title_color=8A9A5B&text_color=E8E6D9&icon_color=8A9A5B&border_color=8A9A5B&bg_color=3A413A)
 </br>
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
-
-![](https://komarev.com/ghpvc/?username=wovi10)
 </div>
