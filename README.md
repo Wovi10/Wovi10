@@ -1,4 +1,4 @@
-<h1 align="center">Hello there👋 (General Kenobi)</h1>
+<h1 align="center">Hello there👋 <sub>General Kenobi</sub></h1>
 <h3 align="center">Welcome to my GitHub profile</h3>
 <div align="center">
 
